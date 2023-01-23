@@ -1,0 +1,35 @@
+.heading {
+    line-height: 1;
+    font-weight: 700;
+    font-size: 3rem;
+    font-family: $font-secondary;
+    color: $color-secondary-darkBlue;
+
+    @media only screen and (max-width: 75em) {
+        font-size: 2.8rem;
+    }
+
+    @media only screen and (max-width: 37.5em) {
+        font-size: 3.4rem;
+    }
+}
+
+.text-spaced {
+    font-size: 1.145rem;
+    letter-spacing: 0.53rem;
+    text-transform: uppercase;
+}
+
+.text-body {
+    text-align: left;
+    margin-top: 2.2rem;
+    font-size: 1.33rem;
+
+    @media (max-width: 37.5em) {
+        font-size: 1.4rem;
+    }
+}
+
+.text-out {
+    text-decoration: line-through;
+}
