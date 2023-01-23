@@ -123,6 +123,12 @@ body {
   .card__img, .card__inner {
     width: 70%;
     height: 43rem; }
+    @media only screen and (max-width: 89em) {
+      .card__img, .card__inner {
+        width: 80%; } }
+    @media only screen and (max-width: 82.6em) {
+      .card__img, .card__inner {
+        width: 90%; } }
     @media only screen and (max-width: 49em) {
       .card__img, .card__inner {
         width: 100%; } }
@@ -145,6 +151,12 @@ body {
     padding: 3.1rem;
     border-radius: 0 1.2rem 1.2rem 0;
     background-color: white; }
+    @media only screen and (max-width: 97.8em) {
+      .card__inner {
+        padding: 2.8rem; } }
+    @media only screen and (max-width: 95.6em) {
+      .card__inner {
+        padding: 2.6rem; } }
     @media only screen and (max-width: 75em) {
       .card__inner {
         padding: 2.8rem; } }

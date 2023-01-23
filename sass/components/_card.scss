@@ -99,6 +99,14 @@
         width: 70%;
         height: 43rem;
 
+        @media only screen and (max-width: 89em) {
+            width: 80%;
+        }
+
+        @media only screen and (max-width: 82.6em) {
+            width: 90%;
+        }
+
         @media only screen and (max-width: 49em) {
             width: 100%;
         }
@@ -128,6 +136,14 @@
         padding: 3.1rem;
         border-radius: 0 1.2rem 1.2rem 0;
         background-color: $color-secondary-white;
+
+        @media only screen and (max-width: 97.8em) {
+            padding: 2.8rem;
+        }
+
+        @media only screen and (max-width: 95.6em) {
+            padding: 2.6rem;
+        }
 
         @media only screen and (max-width: 75em) {
             padding: 2.8rem;
