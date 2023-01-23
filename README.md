@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/product-preview-card-component-W7ItXAaQ82)
-- Live Site URL: [Add live site URL here](https://product-preview-card.vercel.app/)
+- Solution URL: [https://www.frontendmentor.io/solutions/product-preview-card-component-W7ItXAaQ82](https://www.frontendmentor.io/solutions/product-preview-card-component-W7ItXAaQ82)
+- Live Site URL: [https://www.frontendmentor.io/solutions/product-preview-card-component-W7ItXAaQ82](https://product-preview-card.vercel.app/)
 
 ## My process
 
